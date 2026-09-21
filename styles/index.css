@@ -1,0 +1,13 @@
+/* *{box-sizing:border-box} body{margin:0;font-family:Arial,Helvetica,sans-serif;background:#f4f7f4;color:#182018}
+header{background:linear-gradient(135deg,#075b2a,#0c7a36);color:#fff;text-align:center;padding:30px 18px}
+header img{width:150px;height:150px;object-fit:contain;background:#fff;border-radius:50%;padding:5px}
+h1{margin:16px 0 6px;font-size:clamp(28px,6vw,48px)} header p{margin:5px;font-size:17px}
+nav{background:#111;color:#fff;display:flex;justify-content:center;gap:8px;flex-wrap:wrap;padding:10px;position:sticky;top:0;z-index:5}
+nav a{color:#fff;text-decoration:none;padding:10px 14px;border-radius:7px} nav a:hover{background:#075b2a}
+main{max-width:1050px;margin:auto;padding:25px 16px}.hero,.card{background:#fff;border-radius:16px;padding:25px;margin-bottom:20px;box-shadow:0 4px 16px #00000012}
+.hero{text-align:center}.hero h2{font-size:30px;margin-top:0;color:#075b2a}.hero p{font-size:18px;line-height:1.6}
+.grid{display:grid;grid-template-columns:repeat(auto-fit,minmax(230px,1fr));gap:16px}
+.card h3{color:#075b2a;margin-top:0}.tag{display:inline-block;background:#f4c400;color:#111;padding:7px 12px;border-radius:20px;font-weight:bold}
+footer{background:#111;color:#fff;text-align:center;padding:25px;margin-top:30px}
+.btn{display:inline-block;background:#075b2a;color:white;text-decoration:none;padding:12px 18px;border-radius:8px;margin:5px}.muted{color:#667}
+</style> */
